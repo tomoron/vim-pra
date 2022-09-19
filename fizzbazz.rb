@@ -11,11 +11,3 @@ def fizzbazz(num)
     end
   end
 end
-
-puts '関数の引数を入力してください'
-
-number = gets.to_i
-
-fizzbazz(number)
-
-puts '-- 終了 --'

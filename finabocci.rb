@@ -7,9 +7,5 @@ def fina(num)
     end
     result[n]= result[n -2] + result[n -1] 
   end
-  p result
 end
-
-fina(10)
-
 
